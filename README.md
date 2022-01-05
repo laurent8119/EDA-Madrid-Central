@@ -5,4 +5,3 @@ In 2018, Madrid Central was implemented with the objective of limiting vehicle t
 
 This project has been carried out at The Bridge Data Science Bootcamp in July 2021. At that time, the World Health Organization guideline was set to 40 µg/m3(annual mean) but it has recently been modified to 30. 
 
-To visualize the notebook with the interactive plots, click on the link to open it with nbviewer in the top right corner of the notebook.  
